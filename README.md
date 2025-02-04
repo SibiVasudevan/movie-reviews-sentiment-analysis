@@ -1,1 +1,1 @@
-# movie-reviews-sentiment-analysis
+# Sentiment Analysis of Movie Reviews
